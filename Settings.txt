@@ -1,0 +1,1 @@
+This file shows the different settings of this project.
